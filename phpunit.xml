@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="Jamosaur Test Suite">
+        <testsuite name="Avtr Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
