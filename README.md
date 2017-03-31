@@ -121,13 +121,13 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/Jamosaur/avtr-io.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/Jamosaur/avtr-io/master.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/jamosaur/avtr-io/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Jamosaur/avtr-io.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/Jamosaur/avtr-io.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/jamosaur/avtr-io.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/Jamosaur/avtr-io.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/Jamosaur/avtr-io
-[link-travis]: https://travis-ci.org/Jamosaur/avtr-io
+[link-travis]: https://travis-ci.org/jamosaur/avtr-io
 [link-scrutinizer]: https://scrutinizer-ci.com/g/Jamosaur/avtr-io/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/Jamosaur/avtr-io
 [link-downloads]: https://packagist.org/packages/Jamosaur/avtr-io
