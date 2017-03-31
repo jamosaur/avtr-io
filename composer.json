@@ -1,5 +1,5 @@
 {
-    "name": "Jamosaur/avtr-io",
+    "name": "jamosaur/avtr-io",
     "type": "library",
     "description": "API Wrapper for avtr.io",
     "keywords": [
