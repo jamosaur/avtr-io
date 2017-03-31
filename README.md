@@ -14,7 +14,7 @@ API Wrapper for avtr.io
 Via Composer
 
 ``` bash
-$ composer require Jamosaur/avtr-io
+$ composer require jamosaur/avtr-io
 ```
 
 ## Usage
